@@ -1,2 +1,4 @@
 langchain
 unstructured
+faiss-cpu
+sentence-transformers
